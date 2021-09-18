@@ -1,10 +1,51 @@
 [
   {
-  "name": "DIP",
+  "name": "DIP API",
   "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
   "office": "Bundestag",
   "documentationURL": "https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf",
   "githubURL": null
+  },
+  {
+  "name": "Meeresumweltdatenbank (MUDAB)",
+  "description": "Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen.",
+  "office": "Umweltbundesamt",
+  "documentationURL": "https://mudab.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/mudab-api"
+  },
+  {
+  "name": "APP API",
+  "description": "Tagesaktuelle Informationen zum Sitzungskalender und Themen der Plenarsitzungen." ,
+  "office": "Bundesrat",
+  "documentationURL": "https://bundesrat.api.bund.dev",
+  "githubURL": "https://github.com/bundesAPI/bundesrat-api"
+  },
+  {
+  "name": "APP API",
+  "description": "Tagesaktuelle Informationen zum Sitzungskalender, Themen der Plenarsitzungen und Ausschüsse sowie Lebensläufe der Abgeordneten.",
+  "office": "Bundestag",
+  "documentationURL": "https://bundestag.api.bund.dev",
+  "githubURL": "https://github.com/bundesAPI/bundestag-api"
+  },
+  {
+  "name": "NINA API",
+  "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
+  "office": "Bundesamt für Bevölkerungsschutz",
+  "documentationURL": "https://nina.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/nina-api"
+  },
+  {
+  "name": "Red Notices",
+  "description": "Interpol Fahndungsliste.",
+  "office": "Interpol",
+  "documentationURL": "https://interpol.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/interpol-api"
+  },
+  {
+  "name": "Strommarktdaten",
+  "description": "Aktuelle Strommarktdaten der Bundesnetzagentur",
+  "office": "Bundesnetzagentur",
+  "documentationURL": "https://smard.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/smard-api"
   }
 ]
-
