@@ -111,7 +111,6 @@
   "documentationURL": "https://ladestationen.api.bund.dev/",
   "githubURL": "https://github.com/bundesAPI/ladestationen-api"
   },
-  ,
   {
   "name": "ODL-Info API",
   "description": "Daten zur radioaktiven Belastung in Deutschland.",
