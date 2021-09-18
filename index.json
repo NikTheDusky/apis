@@ -64,7 +64,7 @@
   },
   {
   "name": "Lebensmittelwarnungen",
-  "description": "Liste aller Lebensmittel und Produktwarnungen,
+  "description": "Liste aller Lebensmittel und Produktwarnungen",
   "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
   "documentationURL": "https://lebensmittelwarnung.api.bund.dev/",
   "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api"
