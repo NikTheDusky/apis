@@ -47,5 +47,76 @@
   "office": "Bundesnetzagentur",
   "documentationURL": "https://smard.api.bund.dev/",
   "githubURL": "https://github.com/bundesAPI/smard-api"
+  },
+  {
+  "name": "Pflanzenschutzmittelzulassungsdaten",
+  "description": "Monatlich Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
+  "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+  "documentationURL": "https://psm-api.bvl.bund.de/",
+  "githubURL": null
+  },
+  {
+  "name": "Air Data API",
+  "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
+  "office": "Umweltbundesamt",
+  "documentationURL": "https://www.umweltbundesamt.de/daten/luft/luftdaten/doc",
+  "githubURL": null
+  },
+  {
+  "name": "Lebensmittelwarnungen",
+  "description": "Liste aller Lebensmittel und Produktwarnungen,
+  "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+  "documentationURL": "https://lebensmittelwarnung.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api"
+  },
+  {
+  "name": "Risikogebiete",
+  "description": "Aktuelle Covid 19 Risikogebiete mit Einreisebedingungen.",
+  "office": "RKI",
+  "documentationURL": "https://risikogebiete.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
+  },
+  {
+  "name": "Open Data API",
+  "description": "Namen aller von Deutschland anerkannten Staaten mit jeweiligen Botschaftsadressen und Reise- und Gesundheitswarnungen.",
+  "office": "Auswärtiges Amt",
+  "documentationURL": "https://travelwarning.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/travelwarning-api"
+  },
+  {
+  "name": "Einfuhrzoll API",
+  "description": "Abfragen von Importzöllen und Wechselkursen",
+  "office": "Zollverwaltung",
+  "documentationURL": "https://zoll.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/zoll-api"
+  },
+  {
+  "name": "APP API",
+  "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen.",
+  "office": "Deutscher Wetterdienst",
+  "documentationURL": "https://dwd.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/dwd-api"
+  },
+  {
+  "name": "DESTATIS API",
+  "description": "Abrufen von Statistischen Daten.",
+  "office": "Statistisches Bundesamt",
+  "documentationURL": "https://destatis.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/destatis-api"
+  },
+  {
+  "name": "Ladesäulenkarte",
+  "description": "API des Ladesäulenregisters der Bundesnetzagentur.",
+  "office": "Bundesnetzagentur",
+  "documentationURL": "https://ladestationen.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/ladestationen-api"
+  },
+  ,
+  {
+  "name": "ODL-Info API",
+  "description": "Daten zur radioaktiven Belastung in Deutschland.",
+  "office": "Bundesamt für Strahlenschutz",
+  "documentationURL": "https://strahlenschutz.api.bund.dev/",
+  "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
   }
 ]
