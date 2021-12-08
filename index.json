@@ -3,7 +3,7 @@
   "name": "DIP API",
   "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
   "office": "Bundestag",
-  "documentationURL": "https://dip.bundestag.de/documents/informationsblatt_zur_dip_api.pdf",
+  "documentationURL": "https://dip.bundestag.de/über-dip/hilfe/api",
   "githubURL": null
   },
   {
